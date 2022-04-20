@@ -34,4 +34,4 @@ Change mySQL `server/index.js`
 - `nodemon`
 - `cors`
 
-## Code based on Vitor Cunha Code study videos.
+Code based on Vitor Cunha Code study videos.
