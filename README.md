@@ -1,4 +1,4 @@
-# CRUD-REACTJS-NODEJS
+# CRUD
 Study project on ReactJS, NodeJS and MySQL.
 Performs the inclusion, editing and deletion of records.
 
